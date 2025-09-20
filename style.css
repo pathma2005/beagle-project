@@ -1,0 +1,35 @@
+*{
+  font-family: "Inter", sans-serif;
+  
+}
+#div1{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(249, 249, 249);
+    margin-bottom: 5px;
+}
+h1{
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+}
+b{
+  font-style: italic;
+  font-weight: bold;
+}
+#div2{
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+#img1{
+    width: 300px;
+    height: 200px;
+}
+#div3{
+    padding: 20px;
+    margin: 10px;
+    margin-top: 5px;
+}
